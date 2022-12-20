@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.42515671.css",
-    "main.js": "/static/js/main.ab0ae521.js",
+    "main.js": "/static/js/main.fde8da8e.js",
     "data/hiro.patt": "/data/hiro.patt",
     "data/black.patt": "/data/black.patt",
     "data/patt.patt": "/data/patt.patt",
@@ -11,10 +11,10 @@
     "index.html": "/index.html",
     "data/camera_para.dat": "/data/camera_para.dat",
     "main.42515671.css.map": "/static/css/main.42515671.css.map",
-    "main.ab0ae521.js.map": "/static/js/main.ab0ae521.js.map"
+    "main.fde8da8e.js.map": "/static/js/main.fde8da8e.js.map"
   },
   "entrypoints": [
     "static/css/main.42515671.css",
-    "static/js/main.ab0ae521.js"
+    "static/js/main.fde8da8e.js"
   ]
 }
