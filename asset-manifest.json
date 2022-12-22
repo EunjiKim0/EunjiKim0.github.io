@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.42515671.css",
-    "main.js": "/static/js/main.32fe02f4.js",
+    "main.js": "/static/js/main.81ef0806.js",
     "data/hiro.patt": "/data/hiro.patt",
     "data/pattern-bar.patt": "/data/pattern-bar.patt",
     "data/pattern-kanji.patt": "/data/pattern-kanji.patt",
     "index.html": "/index.html",
     "data/camera_para.dat": "/data/camera_para.dat",
     "main.42515671.css.map": "/static/css/main.42515671.css.map",
-    "main.32fe02f4.js.map": "/static/js/main.32fe02f4.js.map"
+    "main.81ef0806.js.map": "/static/js/main.81ef0806.js.map"
   },
   "entrypoints": [
     "static/css/main.42515671.css",
-    "static/js/main.32fe02f4.js"
+    "static/js/main.81ef0806.js"
   ]
 }
